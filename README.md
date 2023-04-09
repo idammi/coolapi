@@ -1,8 +1,6 @@
-# Cool API
+# Cool API (by Robert Grubb)
 
-**NOTE: DEVELOPMENT IN PROGRESS**
-
-A new PHP API framework that is simple and fast.
+A new PHP API framework that is simple and fast. I forked this repo for my private project.
 
 ## Installation
 
@@ -17,7 +15,7 @@ RewriteRule ^ index.php [QSA,L]
 
 **NOTE: The API will attempt to do this soon for you if the directory is writable**
 
-`composer require robert-grubb/coolapi`
+`composer require idammi/coolapi`
 
 ## Configuration Explained
 
