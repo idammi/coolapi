@@ -1,5 +1,5 @@
 {
-  "name": "robert-grubb/coolapi",
+  "name": "idammi/coolapi",
   "description": "Simple PHP API framework",
   "keywords": [
     "api",
@@ -7,12 +7,12 @@
     "framework"
   ],
   "type": "library",
-  "homepage": "https://github.com/RobertGrubb/coolapi",
+  "homepage": "https://github.com/idammi/coolapi",
   "license": "MIT",
   "authors": [
     {
-      "name": "RobertGrubb",
-      "email": "matt@grubb.com"
+      "name": "iDammi",
+      "email": "me@idammi.com"
     }
   ],
   "require": {
@@ -26,6 +26,6 @@
     }
   },
   "support": {
-    "email": "matt@grubb.com"
+    "email": "me@idammi.com"
   }
 }
